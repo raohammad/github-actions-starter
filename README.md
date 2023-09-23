@@ -11,7 +11,8 @@ git init
 git remote add origin <URL of Repository>
 git add *
 git add .
+git branch -M master
 git commit -m "initial commit"
-git push origin main
+git push origin master
 ```
 
